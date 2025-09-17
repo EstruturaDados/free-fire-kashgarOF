@@ -628,3 +628,7 @@ void liberarInventarioEncadeado (InventarioEncadeado *lista) {
     }
     *lista = NULL; // Garante que a lista fique segura e vazia.
 }
+
+//Nivel Novato - OK
+//Nivel Aventureiro - OK
+//Nivel Mestre - OK
